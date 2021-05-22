@@ -1,11 +1,11 @@
 # Digital-Image-Processing
-Textbook followed: *Digital Image Processing, 3rd edition Rafael C. Gonzales*
+**Textbook followed:** *Digital Image Processing, 3rd edition Rafael C. Gonzales*
 
-Professor: Fred Fontaine
+**Professor:** Fred Fontaine
 
-Independent study on digital image processing with a focus on computer vision and super-resolution
+Independent study on digital image processing with a focus on computer vision and super-resolution. I mainly followed Gonzales' Digital Image Processing, reading through 1-2 sections a week, and towards the end switched to reading research papers in my areas of interest. Throughout the semester, I proceeded to implement a number of the algorithms I read about, which can be seen in the notebooks provided in the repository. 
 
-*Primary tools: OpenCV, Pytorch*
+**Primary tools:** OpenCV, Pytorch
 
 ## Topic Breakdown:
 ### 1. Digital Image Fundementals
